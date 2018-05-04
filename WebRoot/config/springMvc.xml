@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:context="http://www.springframework.org/schema/context"
+	xmlns:mvc="http://www.springframework.org/schema/mvc"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans.xsd
+        http://www.springframework.org/schema/context
+        http://www.springframework.org/schema/context/spring-context-4.3.xsd
+           http://www.springframework.org/schema/mvc
+        http://www.springframework.org/schema/mvc/spring-mvc-4.3.xsd">
+	<context:component-scan base-package="Servlet"></context:component-scan>
+	<mvc:annotation-driven />
+	<mvc:resources location="/assets/" mapping="/assets/**" />
+	<mvc:resources location="/bootstrap/" mapping="/bootstrap/**" />
+	<mvc:resources location="/cs/" mapping="/cs/*" />
+	<mvc:resources location="/css/" mapping="/css/*" />
+	<mvc:resources location="/images/" mapping="/images/*" />
+	<mvc:resources location="/js/" mapping="/js/*" />
+	<mvc:resources location="/loginfiles/" mapping="/loginfiles/*" />
+	<mvc:resources location="/aboutusfiles/" mapping="/aboutusfiles/*" />
+	<mvc:resources location="/registerfiles/" mapping="/registerfiles/*" />
+	<mvc:resources location="/shouyefiles/" mapping="/shouyefiles/*" />
+	<mvc:resources location="/layer/" mapping="/layer/**" />
+	<mvc:resources location="/Wopop_files/" mapping="/Wopop_files/*" />
+	<mvc:resources location="/plug/" mapping="/plug/**" />
+	<mvc:resources location="/UserHead/" mapping="/UserHead/*" />
+
+	<bean id="multipartResolver" class="org.springframework.web.multipart.commons.CommonsMultipartResolver">
+    <!-- 指定所上传文件的总大小不能超过1024KB。注意maxUploadSize属性的限制不是针对单个文件,而是所有文件的容量之和 -->
+    <property name="maxUploadSize" value="102400000"/>
+</bean>
+
+</beans>

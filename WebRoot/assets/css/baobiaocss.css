@@ -1,0 +1,22 @@
+.tpl-block {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 18px;
+}
+.am-table>tbody>tr>td,
+.am-table>tbody>tr>th,
+.am-table>tfoot>tr>td,
+.am-table>tfoot>tr>th,
+.am-table>thead>tr>td,
+.am-table>thead>tr>th {
+    border-top: 1px solid #F2F5F8;
+    color: #93a2a9;
+}
+.am-table-striped>tbody>tr:nth-child(odd)>td,
+.am-table-striped>tbody>tr:nth-child(odd)>th {
+    background: #f3f4f6;
+}
+a:hover {
+    cursor: pointer;
+    color: #23527c;
+}

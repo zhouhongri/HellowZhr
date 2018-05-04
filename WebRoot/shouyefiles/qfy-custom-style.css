@@ -1,0 +1,526 @@
+body #main-nav.bit-menu-default .sub-nav li:hover,body #main-nav.bit-menu-default .sub-nav li.current-menu-item
+	{
+	background-color: transparent
+}
+
+body #main-nav.bit-menu-float .sub-nav li:hover,body #main-nav.bit-menu-float .sub-nav li.current-menu-item
+	{
+	background-color: transparent
+}
+
+body #phantom .ph-wrap .ph-wrap-content {
+	padding-left: 40px;
+	padding-right: 40px;
+}
+
+body #phantom .ph-wrap .ph-wrap-inner {
+	height: px;
+}
+
+body #phantom .menu-info-box {
+	width: px;
+}
+
+@media screen and (max-width: 992px) {
+	body #header .wf-wrap .wf-table #branding {
+		table-layout: fixed;
+	}
+	.bit-html body #header.headerPM,.bit-html body #header.headerInnerPM>.wf-wrap
+		{
+		padding-left: 0px;
+		padding-right: 0px;
+	}
+	body  .assistive-info  .top-bar-right {
+		margin: 0 auto;
+		display: block !important;
+		padding-bottom: 0px;
+		padding-top: 0px;
+		width: px;
+	}
+	.bit-html body #footer,.bit-html body #footer>.wf-wrap {
+		min-height: 150px;
+	}
+	.bit-html body #footer {
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 0px;
+		padding-bottom: 0px;
+	}
+	.bit-html body #bottom-bar {
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 10px;
+		padding-bottom: 10px;
+	}
+	.bit-html body #branding .bitem.text {
+		position: relative;
+		left: 0px;
+		top: 0px;
+	}
+	.bit-html body #header .bitem.logo img {
+		max-height: px;
+		height: px;
+		width: px;
+	}
+	.bit-html body #header .bitem.logo {
+		max-height: px;
+		top: 0px;
+		left: 0px;
+	}
+	.bit-html #bit_banner_image-2 {
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 0px;
+		padding-bottom: 0px;
+	}
+	.bit-html #bit_banner_image-24 {
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 0px;
+		padding-bottom: 0px;
+	}
+	.bit-html #bit_banner_image-47 {
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 0px;
+		padding-bottom: 0px;
+	}
+	.bit-html #bit_banner_image-48 {
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 0px;
+		padding-bottom: 0px;
+	}
+	.bit-html #bit_banner_image-49 {
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 0px;
+		padding-bottom: 0px;
+	}
+	.bit-html #bit_banner_image-50 {
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 0px;
+		padding-bottom: 0px;
+	}
+	.bit-html #bit_banner_image-51 {
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 0px;
+		padding-bottom: 0px;
+	}
+	.bit-html #bit_banner_image-55 {
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 0px;
+		padding-bottom: 0px;
+	}
+	.bit-html #bit_banner_image-_multiwidget {
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 0px;
+		padding-bottom: 0px;
+	}
+	.bit-html #bit_banner_image-56 {
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 0px;
+		padding-bottom: 0px;
+	}
+	.bit-html #bit_banner_image-57 {
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 0px;
+		padding-bottom: 0px;
+	}
+	.bit-html #bit_banner_image-58 {
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 0px;
+		padding-bottom: 0px;
+	}
+	.bit-html #bit_banner_image-59 {
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 0px;
+		padding-bottom: 0px;
+	}
+	.bit-html #bit_breadcrumbs-2 {
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 0px;
+		padding-bottom: 0px;
+	}
+	.bit-html #bit_breadcrumbs-_multiwidget {
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 0px;
+		padding-bottom: 0px;
+	}
+	.bit-html #bit_postlist-2 {
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 10px;
+	}
+	.bit-html #bit_postlist-3 {
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 10px;
+	}
+	.bit-html #bit_postlist-4 {
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 10px;
+	}
+	.bit-html #bit_postlist-6 {
+		padding-left: 0px;
+		padding-right: 20px;
+		padding-top: 0px;
+		padding-bottom: 0px;
+	}
+	.bit-html #bit_postlist-7 {
+		padding-left: 0px;
+		padding-right: 20px;
+		padding-top: 0px;
+		padding-bottom: 0px;
+	}
+	.bit-html #bit_postlist-_multiwidget {
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 0px;
+		padding-bottom: 0px;
+	}
+	.bit-html #iphorm-widget-_multiwidget {
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 0px;
+		padding-bottom: 0px;
+	}
+	.bit-html #loginandregister-2 {
+		padding-left: 0px;
+		padding-right: 20px;
+		padding-top: 0px;
+		padding-bottom: 0px;
+	}
+	.bit-html #loginandregister-_multiwidget {
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 0px;
+		padding-bottom: 0px;
+	}
+	.bit-html #nav_menu-_multiwidget {
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 0px;
+		padding-bottom: 0px;
+	}
+	.bit-html #nav_menuhorizontal-_multiwidget {
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 0px;
+		padding-bottom: 0px;
+	}
+	.bit-html #nav_widget-_multiwidget {
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 0px;
+		padding-bottom: 0px;
+	}
+	.bit-html #search-3 {
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 10px;
+	}
+	.bit-html #search-_multiwidget {
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 0px;
+		padding-bottom: 0px;
+	}
+	.bit-html #text-4 {
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 0px;
+		padding-bottom: 0px;
+	}
+	.bit-html #text-10 {
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 0px;
+		padding-bottom: 0px;
+	}
+	.bit-html #text-19 {
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 22px;
+		padding-bottom: 0px;
+	}
+	.bit-html #text-20 {
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 0px;
+		padding-bottom: 0px;
+	}
+	.bit-html #text-21 {
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 0px;
+		padding-bottom: 0px;
+	}
+	.bit-html #text-25 {
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 10px;
+	}
+	.bit-html #text-31 {
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 10px;
+	}
+	.bit-html #text-32 {
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 0px;
+		padding-bottom: 0px;
+	}
+	.bit-html #text-33 {
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 10px;
+	}
+	.bit-html #text-_multiwidget {
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 0px;
+		padding-bottom: 0px;
+	}
+	.bit-html #text-34 {
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 22px;
+		padding-bottom: 0px;
+	}
+}
+
+@media screen and (min-width: 992px) {
+	body #header.headerPM {
+		padding-left: 0px;
+		padding-right: 0px;
+	}
+	body  #phantom .sub-nav li a {
+		text-align: left
+	}
+	body  .assistive-info .top-bar-right {
+		padding-bottom: 0px;
+		padding-top: 0px;
+		width: 225px;
+	}
+	body  .topbar_right {
+		padding-bottom: 0px;
+		padding-top: 0px;
+		width: px;
+	}
+	body  .topbar_left {
+		padding-bottom: 0px;
+		padding-top: 0px;
+		width: px;
+	}
+	body  .assistive-info {
+		width: 225px;
+	}
+	body #header .wf-wrap .wf-table {
+		min-height: 80px;
+		height: 80px;
+	}
+	.bit-html body #footer {
+		padding-left: 50px;
+		padding-right: 50px;
+	}
+	.bit-html body #bottom-bar {
+		padding-left: 0px;
+		padding-right: 0px;
+	}
+	.bit-html body #header.menuPosition #navigation #main-nav,.bit-html body #header.menuPositionHolder .navigation-holder
+		{
+		position: relative;
+		bottom: -2px;
+		left: 272px;
+	}
+	body #branding .bitem.text {
+		position: relative;
+		left: 0px;
+		top: 0px;
+	}
+	body #header .bitem.logo img {
+		max-height: 83.9px;
+		height: 83.9px;
+		width: 142px;
+	}
+	body #header .bitem.logo {
+		max-height: 25px;
+		top: 0px;
+		left: 0px;
+	}
+	#bit_banner_image-24 {
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 0px;
+		padding-bottom: 0px;
+	}
+	#bit_banner_image-47 {
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 0px;
+		padding-bottom: 0px;
+	}
+	#bit_banner_image-48 {
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 0px;
+		padding-bottom: 0px;
+	}
+	#bit_banner_image-49 {
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 0px;
+		padding-bottom: 0px;
+	}
+	#bit_banner_image-50 {
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 0px;
+		padding-bottom: 0px;
+	}
+	#bit_banner_image-51 {
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 0px;
+		padding-bottom: 0px;
+	}
+	#bit_banner_image-55 {
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 0px;
+		padding-bottom: 0px;
+	}
+	#bit_banner_image-56 {
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 0px;
+		padding-bottom: 0px;
+	}
+	#bit_banner_image-57 {
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 0px;
+		padding-bottom: 0px;
+	}
+	#bit_banner_image-58 {
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 0px;
+		padding-bottom: 0px;
+	}
+	#bit_banner_image-59 {
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 0px;
+		padding-bottom: 0px;
+	}
+	#bit_breadcrumbs-2 {
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 0px;
+		padding-bottom: 0px;
+	}
+	#bit_postlist-2 {
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 0px;
+		padding-bottom: 0px;
+	}
+	#bit_postlist-3 {
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 0px;
+		padding-bottom: 0px;
+	}
+	#bit_postlist-4 {
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 0px;
+		padding-bottom: 0px;
+	}
+	#bit_postlist-6 {
+		padding-left: 0px;
+		padding-right: 20px;
+		padding-top: 0px;
+		padding-bottom: 0px;
+	}
+	#bit_postlist-7 {
+		padding-left: 0px;
+		padding-right: 20px;
+		padding-top: 0px;
+		padding-bottom: 0px;
+	}
+	#loginandregister-2 {
+		padding-left: 0px;
+		padding-right: 20px;
+		padding-top: 0px;
+		padding-bottom: 0px;
+	}
+	#search-3 {
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 0px;
+		padding-bottom: 0px;
+	}
+	#text-19 {
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 5px;
+		padding-bottom: 5px;
+	}
+	#text-20 {
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 5px;
+		padding-bottom: 5px;
+	}
+	#text-21 {
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 5px;
+		padding-bottom: 5px;
+	}
+	#text-25 {
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 0px;
+		padding-bottom: 0px;
+	}
+	#text-31 {
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 0px;
+		padding-bottom: 10px;
+	}
+	#text-32 {
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 0px;
+		padding-bottom: 0px;
+	}
+	#text-33 {
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 0px;
+		padding-bottom: 0px;
+	}
+	#text-34 {
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 5px;
+		padding-bottom: 5px;
+	}
+}
